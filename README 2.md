@@ -1,6 +1,6 @@
-# **복셀(Voxel)을 표현하는 토러스 패치 공간자료구조 개발** 과제 수행
-
-## Git Workflow
+# ARTX-PoliceScience
+![ex_screenshot](./img/artx_logo_gray.svg)
+## ARTX Git Workflow
 ### 브랜치카테고리
 - main: 제품으로 출시될 수 있는 브랜치 (사용)
 - develop : 다음 출시 버전을 개발하는 브랜치 (사용)
